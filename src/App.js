@@ -1,12 +1,11 @@
 import './App.css';
+import Hello from "./components/Hello.tsx";
 
 function App() {
   return (
-<section>
-  <article>first</article>
-  <article>second</article>
-  <article>third</article>
-</section>
+<div>
+  <Hello/>
+</div>
   );
 }
 

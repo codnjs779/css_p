@@ -1,19 +1,7 @@
-section{
-    display: flex;
-    flex-direction: row;
+body{
+    background-color: black;
 }
 
-article {
-    background-color: olive;
-    height: 100vh;
-    flex:1;
-}
-
-article:nth-child(2) {
-    background-color: darkgoldenrod;
-
-}
-
-article:nth-child(3) {
-    background-color: green;
+div{
+    color:white;
 }
